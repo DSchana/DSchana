@@ -2,5 +2,5 @@
  <img src="https://github-readme-stats.vercel.app/api?username=dschana&count_private=true&hide=prs&theme=github_dark&include_all_commits=true&show_icons=true" />
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dschana&heme=github_dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dschana&theme=github_dark&hide=tex&layout=compact" />
 </p>
